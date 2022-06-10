@@ -1,0 +1,6 @@
+Numero de pontos posiveis: 32
+
+ -> GETTIMEOFDAY:  193991µs
+ -> USER TIME: 0.125000s
+ -> SYSTEM TIME:  0.000000s
+ -> TOTAL TIME: 0.125000s
